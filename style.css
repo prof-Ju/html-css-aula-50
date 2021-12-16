@@ -1,0 +1,12 @@
+  h1 {
+color: brown;
+}
+
+*{
+border: solid;
+ }
+
+ #top-jogos{
+    background-color: blue;
+    display: flex;
+ }
